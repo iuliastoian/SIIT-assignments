@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\bin\Debug\net7.0\IuliaTiaStoian_NoToStr.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\bin\Debug\net7.0\IuliaTiaStoian_NoToStr.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\bin\Debug\net7.0\IuliaTiaStoian_NoToStr.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\bin\Debug\net7.0\IuliaTiaStoian_NoToStr.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\bin\Debug\net7.0\IuliaTiaStoian_NoToStr.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\refint\IuliaTiaStoian_NoToStr.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\IuliaTiaStoian_NoToStr.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_NoToStr\IuliaTiaStoian_NoToStr\obj\Debug\net7.0\ref\IuliaTiaStoian_NoToStr.dll
