@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\bin\Debug\net7.0\IuliaTiaStoian_ROT3chiper.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\bin\Debug\net7.0\IuliaTiaStoian_ROT3chiper.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\bin\Debug\net7.0\IuliaTiaStoian_ROT3chiper.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\bin\Debug\net7.0\IuliaTiaStoian_ROT3chiper.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\bin\Debug\net7.0\IuliaTiaStoian_ROT3chiper.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\refint\IuliaTiaStoian_ROT3chiper.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\IuliaTiaStoian_ROT3chiper.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ROT3chiper\IuliaTiaStoian_ROT3chiper\obj\Debug\net7.0\ref\IuliaTiaStoian_ROT3chiper.dll
