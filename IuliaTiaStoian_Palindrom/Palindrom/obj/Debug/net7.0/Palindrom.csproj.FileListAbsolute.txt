@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.exe
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.dll
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\bin\Debug\net7.0\Palindrom.pdb
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.dll
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\refint\Palindrom.dll
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.pdb
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\Palindrom.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\Palindrom\Palindrom\obj\Debug\net7.0\ref\Palindrom.dll
