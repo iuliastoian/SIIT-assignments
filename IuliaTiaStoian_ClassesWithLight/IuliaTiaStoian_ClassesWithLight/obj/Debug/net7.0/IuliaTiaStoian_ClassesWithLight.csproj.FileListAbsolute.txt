@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\bin\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\bin\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\bin\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\bin\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\bin\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\refint\IuliaTiaStoian_ClassesWithLight.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\IuliaTiaStoian_ClassesWithLight.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassesWithLight\IuliaTiaStoian_ClassesWithLight\obj\Debug\net7.0\ref\IuliaTiaStoian_ClassesWithLight.dll
