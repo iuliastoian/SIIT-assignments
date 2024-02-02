@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\bin\Debug\net7.0\IuliaTiaStoian_ClassStudent.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\bin\Debug\net7.0\IuliaTiaStoian_ClassStudent.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\bin\Debug\net7.0\IuliaTiaStoian_ClassStudent.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\bin\Debug\net7.0\IuliaTiaStoian_ClassStudent.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\bin\Debug\net7.0\IuliaTiaStoian_ClassStudent.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\refint\IuliaTiaStoian_ClassStudent.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\IuliaTiaStoian_ClassStudent.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ClassStudent\IuliaTiaStoian_ClassStudent\obj\Debug\net7.0\ref\IuliaTiaStoian_ClassStudent.dll
