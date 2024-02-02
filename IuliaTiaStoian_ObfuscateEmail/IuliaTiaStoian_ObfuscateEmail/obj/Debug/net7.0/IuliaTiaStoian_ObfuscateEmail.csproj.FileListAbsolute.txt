@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\bin\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\bin\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\bin\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\bin\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\bin\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\refint\IuliaTiaStoian_ObfuscateEmail.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\IuliaTiaStoian_ObfuscateEmail.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_ObfuscateEmail\IuliaTiaStoian_ObfuscateEmail\obj\Debug\net7.0\ref\IuliaTiaStoian_ObfuscateEmail.dll
