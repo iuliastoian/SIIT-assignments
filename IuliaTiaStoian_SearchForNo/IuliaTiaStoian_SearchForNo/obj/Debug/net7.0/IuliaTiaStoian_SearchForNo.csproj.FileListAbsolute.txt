@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\bin\Debug\net7.0\IuliaTiaStoian_SearchForNo.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\bin\Debug\net7.0\IuliaTiaStoian_SearchForNo.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\bin\Debug\net7.0\IuliaTiaStoian_SearchForNo.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\bin\Debug\net7.0\IuliaTiaStoian_SearchForNo.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\bin\Debug\net7.0\IuliaTiaStoian_SearchForNo.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\refint\IuliaTiaStoian_SearchForNo.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\IuliaTiaStoian_SearchForNo.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_SearchForNo\IuliaTiaStoian_SearchForNo\obj\Debug\net7.0\ref\IuliaTiaStoian_SearchForNo.dll
