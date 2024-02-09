@@ -1,0 +1,14 @@
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\bin\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.exe
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\bin\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.deps.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\bin\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.runtimeconfig.json
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\bin\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\bin\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.AssemblyInfo.cs
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\refint\IuliaTiaStoian_DogWithExceptions.dll
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.pdb
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\IuliaTiaStoian_DogWithExceptions.genruntimeconfig.cache
+F:\Microsoft Visual Studio\proiecte-siit\IuliaTiaStoian_DogWithExceptions\IuliaTiaStoian_DogWithExceptions\obj\Debug\net7.0\ref\IuliaTiaStoian_DogWithExceptions.dll
